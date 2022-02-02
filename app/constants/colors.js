@@ -1,0 +1,17 @@
+export default {
+  primaryColor: '#000',
+  appBackgroundColor: '#f2f3f8',
+  groupedDataSectionHeaderBackground: '#110a4420',
+  secondaryColor: '#777',
+  white: '#fff',
+  black: '#000',
+  orange: '#FF7002',
+  darkBlue: '#110a44',
+  red: '#D00',
+  controlBackground: '#f3f6f9',
+  controlForeground: '#3f4254',
+  highlightBackgroundColor: 'yellow',
+  highlightForegroundColor: 'black',
+  fieldLabelForeground: '#3f4254',
+  separatorBackground: '#EAEAEA',
+};

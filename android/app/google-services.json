@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786321528574",
+    "firebase_url": "https://drclaw-912bc.firebaseio.com",
+    "project_id": "drclaw-912bc",
+    "storage_bucket": "drclaw-912bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786321528574:android:cd55bbcf0f93208ae237af",
+        "android_client_info": {
+          "package_name": "com.argilegroupe.mobeko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786321528574-4in50d7adsof1e2rn80p0a0rchi8uof2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9NYZnYhLT7q23EC3sB4iS4SLAx3aQlLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786321528574-4in50d7adsof1e2rn80p0a0rchi8uof2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786321528574-d5kjgg1p81isvhvab5sh0t8bf7q9tm8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.argilegroupe.DRCLaw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
